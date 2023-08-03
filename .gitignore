@@ -18,4 +18,8 @@ bash_dw4.sh
 bash_qm9pos.sh
 bash_qm9_analyze.sh
 beautiful_figures/ovito_images/*
-*__pycache__
+
+**/__pycache__
+**/*.egg-info
+build
+archive
